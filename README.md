@@ -2,7 +2,7 @@
 	<img src="https://github.com/seliinneren/seliinneren/blob/main/github-contribution-grid-snake.svg" />
 </div>
 <h1 align="center" margin="50">Hi 👋, I'm Selin</h1>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" margin="50">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seliinneren" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seliinneren" height="30" width="40" /></a>
