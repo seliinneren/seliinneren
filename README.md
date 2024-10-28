@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/blob/output/github-contribution-grid-snake-dark.svg" />
+	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <h1 align="center" >Hi 👋, I'm Selin</h1>
 <h3 align="center" >Connect with me:</h3>
