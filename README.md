@@ -19,5 +19,5 @@
 <p align="center" ><a href="https://www.buymeacoffee.com/seliinneren"> <img align="center" margin="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seliinneren" /></a></p><br><br>
 
 <div align="center">
-	<img src="https://github.com/seliinneren/github-stats-terminal/blob/master/github_stats.svg" />
+	<img src="https://github.com/seliinneren/seliinneren/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
