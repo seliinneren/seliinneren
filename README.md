@@ -6,7 +6,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
   <img height="150" width="150" src="/assets/right_wing.webp"/>
 </p>
-
+<div align="center">
+	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <h3 align="center" >Connect with me:</h3>
 <p align="center" >
 <a href="https://codepen.io/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seliinneren" height="30" width="40" /></a>
@@ -23,9 +25,7 @@
 <h3 align="center" >Support:</h3>
 <p align="center" ><a href="https://www.buymeacoffee.com/seliinneren"> <img align="center" margin="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seliinneren" /></a></p><br><br>
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
-</div>
+
 <div align="center">
 	<img src="https://github.com/seliinneren/seliinneren/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
