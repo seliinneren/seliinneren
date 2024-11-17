@@ -1,12 +1,12 @@
 <a align="left" href="https://instagram.com/seliinneren" target="blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=seliinneren&label=Profile%20views&color=0e75b6&style=flat" alt="seliinneren" /> 
+<h1 align="center" >Hi 👋, I'm Selin</h1>
 <p align="center">
   <img height="150" width="150" src="/assets/left_wing.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
   <img height="150" width="150" src="/assets/right_wing.webp"/>
 </p>
 
-<h1 align="center" >Hi 👋, I'm Selin</h1>
 <h3 align="center" >Connect with me:</h3>
 <p align="center" >
 <a href="https://codepen.io/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seliinneren" height="30" width="40" /></a>
