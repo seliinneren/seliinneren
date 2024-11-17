@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=seliinneren&label=Profile%20views&color=0e75b6&style=flat" alt="seliinneren" /> 
 <p align="center">
   <img height="150" width="150" src="/assets/left_wing.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MutanPlex&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
   <img height="150" width="150" src="/assets/right_wing.webp"/>
 </p>
 
