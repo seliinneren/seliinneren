@@ -1,6 +1,6 @@
 <a align="left" href="https://instagram.com/seliinneren" target="blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=seliinneren&label=Profile%20views&color=0e75b6&style=flat" alt="seliinneren" /> 
-"<div align="center">
+<div align="center">
 	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <h1 align="center" >Hi 👋, I'm Selin</h1>
