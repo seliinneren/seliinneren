@@ -1,4 +1,6 @@
 <a align="left" href="https://instagram.com/seliinneren" target="blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seliinneren" height="30" width="40" /></a>
+<a href="https://fb.com/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seliinneren" height="30" width="40" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=seliinneren&label=Profile%20views&color=0e75b6&style=flat" alt="seliinneren" /> 
 <h1 align="center" >Hi 👋, I'm Selin</h1>
 <p align="center">
@@ -9,14 +11,6 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<h3 align="center" >Connect with me:</h3>
-<p align="center" >
-<a href="https://codepen.io/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seliinneren" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seliinneren" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="seliinneren" height="30" width="40" /></a>
-<a href="https://fb.com/seliinneren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seliinneren" height="30" width="40" /></a>
-<a href="https://instagram.com/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seliinneren" height="30" width="40" /></a>
-<a href="https://dribbble.com/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="seliinneren" height="30" width="40" /></a>
 </p>
 
 <h3 align="center" >Languages and Tools:</h3>
