@@ -8,7 +8,6 @@
 <a href="https://instagram.com/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seliinneren" height="30" width="40" /></a>
 <a href="https://dribbble.com/seliinneren" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="seliinneren" height="30" width="40" /></a>
 </p>
-<img align="right" src="https://komarev.com/ghpvc/?username=seliinneren&label=Profile%20views&color=0e75b6&style=flat" alt="seliinneren" /> 
 
 <p align="center">
   <img height="150" width="150" src="/assets/left_wing.webp"/>
