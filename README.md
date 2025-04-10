@@ -9,7 +9,7 @@
 <p align="center">
   <img height="150" width="150" src="/assets/left_wing.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
-  <img height="150" width="228" src="/assets/right.webp"/>
+  <img height="150" width="208" src="/assets/right.webp"/>
 </p>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
