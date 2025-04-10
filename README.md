@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img height="100" width="158" src="/assets/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=false&background=#3363D7"/>
-  <img height="100" width="158" src="/assets/right.webp"/>
+  <img height="150" width="150" src="/assets/left-wing.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=#3363D7"/>
+  <img height="100" width="150" src="/assets/right-wing.webp"/>
 </p>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/seliinneren/seliinneren/output/github-contribution-grid-snake-dark.svg" />
