@@ -8,7 +8,7 @@
 
 <p align="center">
   <img height="100" width="158" src="/assets/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=FF3363D7"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seliinneren&theme=youtube_dark&hide_border=true&background=#3363d7"/>
   <img height="100" width="158" src="/assets/right.webp"/>
 </p>
 <div align="center">
